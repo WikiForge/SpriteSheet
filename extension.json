@@ -5,7 +5,7 @@
 		"Alexia E. Smith",
 		"Hydra Wiki Platform Team"
 	],
-	"url": "https://gitlab.com/HydraWiki/extensions/SpriteSheet",
+	"url": "https://github.com/WikiForge/SpriteSheet",
 	"descriptionmsg": "spritesheet_description",
 	"license-name": "LGPL-3.0-only",
 	"type": "other",
